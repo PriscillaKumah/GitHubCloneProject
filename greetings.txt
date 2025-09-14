@@ -1,2 +1,4 @@
-Hello, this is a message from my cloned repository!
+#Hello, this is a message from my cloned repository!
+Hello from both the main and feature-greeting branches!
+
 
